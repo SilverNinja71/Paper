@@ -1,0 +1,8 @@
+.build/
+.build-*/
+.swiftpm/
+Paper.app/
+*.xcodeproj/xcuserdata/
+.DS_Store
+CloudKeys.plist
+CLAUDE.local.md
